@@ -1,0 +1,23 @@
+{
+    "stage":[
+        {
+            "name" : "yonny",
+            "type" : "container",
+            "x" : 50,
+            "y" : 50,
+            "children":[
+                {
+                    "name" : "instance1",
+                    "type" : "sprite",
+                    "x" : 50,
+                    "y" : 50,
+                    "w:" : 100,
+                    "h" : 100,
+                    "src" : "/Users/yonathan.zohar/code/homeassignment/dist/Assets/bullet.png",
+                    "r":100
+                }
+            ]
+        }
+        
+    ]
+}
